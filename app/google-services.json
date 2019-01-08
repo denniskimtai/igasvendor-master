@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "981860619165",
+    "firebase_url": "https://igas-3a112.firebaseio.com",
+    "project_id": "igas-3a112",
+    "storage_bucket": "igas-3a112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981860619165:android:293330adf8d46b6c",
+        "android_client_info": {
+          "package_name": "codegreed_devs.com.igasvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981860619165-1rpo8lfr4cij4o0an0stcv170jqdi4c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMt472fVLKi2cg2Rs8T0vVmgKkRT8uO4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981860619165:android:ad334e214574ae89",
+        "android_client_info": {
+          "package_name": "com.codegreed_devs.i_gas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981860619165-o76vr1ffau7mnm1336fts28ak83vok00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegreed_devs.i_gas",
+            "certificate_hash": "98393754f42feb33218eb22912f9b26fba3a4888"
+          }
+        },
+        {
+          "client_id": "981860619165-1rpo8lfr4cij4o0an0stcv170jqdi4c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMt472fVLKi2cg2Rs8T0vVmgKkRT8uO4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981860619165-1rpo8lfr4cij4o0an0stcv170jqdi4c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
